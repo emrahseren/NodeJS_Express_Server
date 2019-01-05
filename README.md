@@ -15,13 +15,13 @@ Before install and run this project your needs;
 
 ### Installing
 
--Clone this project to your local environments
+- Clone this project to your local environments
 $ git clone https://github.com/emrahseren/NodeJS_Express_Server.git
 
--Enter the project folder 
+- Enter the project folder 
 $ cd NodeJS_Express_Server
 
->Get NPM modules
+> Get NPM modules
 $ npm install 
 
 ## Running 
