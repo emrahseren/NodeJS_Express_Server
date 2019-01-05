@@ -1,4 +1,5 @@
-# NodeJS - Express - Local File DB - GET, POST, API Project
+# NodeJS - Express - Local File DB
+# GET, POST, API Project
 
 This project aim that for developers to create RestFul API more easy and useful to focus more idea then getting problems and architectural issue. 
 
