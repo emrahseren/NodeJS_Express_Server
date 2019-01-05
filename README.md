@@ -40,6 +40,10 @@ Get NPM modules
 * Read your data from API 
 > http://localhost:1111/read
 
+* Your Data
+> files/data.json
+
+
 ## Authors
 
 **Nuh Emrah Seren** 
