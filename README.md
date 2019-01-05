@@ -29,8 +29,9 @@ $ npm install
 
 ## Running 
 
-* Running your API
-- npm start
+> Running your API
+
+$ npm start
 
 ## Authors
 
