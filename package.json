@@ -16,5 +16,14 @@
     "url": "https://github.com/emrahseren/NodeJS_Express_Server/issues"
   },
   "homepage": "https://github.com/emrahseren/NodeJS_Express_Server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "server": "^1.0.18"
+  },
+  "devDependencies": {},
   "description": ""
 }
