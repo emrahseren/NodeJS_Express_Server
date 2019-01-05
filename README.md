@@ -7,6 +7,14 @@ This project aim that for developers to create RestFul API more easy and useful 
 
 These instructions will get you a copy of the project up and running on your local machine for DEVELOPMENT purposes. 
 
+Project Dependencies 
+"body-parser"
+"ejs"
+"express"
+"fs"
+"path"
+"server"
+    
 ### Prerequisites
 
 Before install and run this project your needs;
