@@ -15,23 +15,30 @@ Before install and run this project your needs;
 
 ### Installing
 
-> Clone this project to your local environments
+Clone this project to your local environments
+>git clone https://github.com/emrahseren/NodeJS_Express_Server.git
 
-$ git clone https://github.com/emrahseren/NodeJS_Express_Server.git
+Enter the project folder 
+>cd NodeJS_Express_Server
 
-> Enter the project folder 
-
-$ cd NodeJS_Express_Server
-
-> Get NPM modules
-
-$ npm install 
+Get NPM modules
+>npm install 
 
 ## Running 
 
-> Running your API
+* Running your API
+- npm start
 
-$ npm start
+* Visit local API 
+- http://localhost:1111/
+
+## Usage / Updates 
+
+* localhost port update; open server.js update
+> app.listen(**1111**, function(req, res)
+
+* Read your data from API 
+> http://localhost:1111/read
 
 ## Authors
 
