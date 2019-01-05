@@ -31,7 +31,7 @@ npm install
 
 ## Authors
 
-* **Nuh Emrah Seren** 
+**Nuh Emrah Seren** 
 
 ## License
 
